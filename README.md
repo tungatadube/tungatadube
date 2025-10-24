@@ -33,10 +33,11 @@ Databases & Messaging
 
 Tools & Practices  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-Show Image
-Show Image
-Show Image
-Show Image
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Maven
+](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Gradle
+](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)Show Image
 
 🌟 Featured Projects
 🏪 Microservices E-Commerce Platform
