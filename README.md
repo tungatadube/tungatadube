@@ -102,8 +102,10 @@ Code for Australia - Contributing to civic tech projects
 
 
 📫 Get In Touch
-I'm always open to interesting conversations and opportunities!
-Show Image
+I'm always open to interesting conversations and opportunities!  
+<a href="https://www.linkedin.com/in/mduduzifrederickdube" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 Show Image
 Show Image
 📱 Phone: +61 0408 704 216
