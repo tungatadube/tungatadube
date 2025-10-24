@@ -74,13 +74,14 @@ Highlights: Clean architecture, industry best practices
 
 
 📊 GitHub Stats
-<div align="center">
-  <p align="center">
+<div align="left">
+  <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tungatadube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tungatadube&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-Show Image
-Show Image
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tungatadube&theme=tokyonight&hide_border=true" />
+</p>  
 </div>
 
 📝 Latest Blog Posts
