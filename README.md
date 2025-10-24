@@ -1,16 +1,141 @@
-## Hi there 👋
+Hi there, I'm Mduduzi Dube 👋
+🚀 Backend Software Engineer | Java & Spring Boot Specialist
+📍 Based in Adelaide, South Australia | 🔍 Available for immediate employment
+I'm a backend software engineer with 6+ years of experience building enterprise-grade fintech systems. Recently relocated to Adelaide and actively seeking opportunities in backend development, microservices architecture, or DevOps engineering.
+🎯 Current Focus
 
-<!--
-**tungatadube/tungatadube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Building production-ready microservices projects with Spring Boot & Kubernetes
+📚 Pursuing AWS Solutions Architect Associate certification
+🤝 Contributing to open source projects in the Spring ecosystem
+🌏 Connecting with Adelaide's tech community
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Professional Background
+
+6+ years building enterprise fintech systems processing $2B+ annually
+Architected microservices platforms serving 15+ million users
+Expert in Spring Boot, Kubernetes, CI/CD, and cloud infrastructure
+Maintained 99.9% uptime for mission-critical payment systems
+International experience deploying systems across multiple markets
+
+
+🛠️ Tech Stack
+Languages & Frameworks
+Show Image
+Show Image
+Show Image
+Show Image
+DevOps & Cloud
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Databases & Messaging
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+Tools & Practices
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+
+🌟 Featured Projects
+🏪 Microservices E-Commerce Platform
+Enterprise-grade microservices architecture demonstrating production-ready patterns
+
+Tech: Spring Boot, Kubernetes, PostgreSQL, Redis, RabbitMQ
+Features: API Gateway, Service Discovery, Event-driven architecture, JWT Auth
+Deployment: AWS EKS with CI/CD via GitHub Actions
+Highlights: 80%+ test coverage, comprehensive monitoring, auto-scaling
+
+💳 Payment Processing Simulator
+Real-time payment processing system with fraud detection
+
+Tech: Spring Boot, WebSocket, PostgreSQL, React
+Features: Real-time transactions, fraud rules engine, webhook notifications
+Patterns: Idempotency, circuit breakers, audit logging
+Highlights: Production-grade error handling, API documentation
+
+⚙️ DevOps Automation Toolkit
+Reusable infrastructure and deployment automation resources
+
+Tech: Terraform, Kubernetes, Helm, Bash
+Features: AWS infrastructure templates, CI/CD pipelines, monitoring setup
+Highlights: Production-tested configurations, comprehensive documentation
+
+🔧 Spring Boot Starter Templates
+Collection of production-ready Spring Boot templates and best practices
+
+Tech: Spring Boot, Spring Security, Spring Data JPA
+Features: Authentication, API rate limiting, logging, exception handling
+Highlights: Clean architecture, industry best practices
+
+
+📊 GitHub Stats
+<div align="center">
+Show Image
+Show Image
+Show Image
+</div>
+
+📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+
+Building Production-Ready Microservices with Spring Boot
+Deploying to AWS EKS: A Complete Guide
+My Journey Relocating to Adelaide's Tech Scene
+
+<!-- BLOG-POST-LIST:END -->
+
+🤝 Open Source Contributions
+I actively contribute to open source projects, particularly in the Spring ecosystem:
+
+Spring Boot - Documentation improvements, bug fixes
+Spring Security - Security enhancements
+Code for Australia - Contributing to civic tech projects
+
+
+📫 Get In Touch
+I'm always open to interesting conversations and opportunities!
+Show Image
+Show Image
+Show Image
+📱 Phone: +61 0408 704 216
+📍 Location: Adelaide, South Australia
+💼 Status: Available for immediate start
+🛂 Visa: 482 Skills in Demand - Eligible to work immediately
+
+🎓 Certifications & Learning
+
+🎯 In Progress: AWS Solutions Architect Associate (Expected Dec 2024)
+🎯 In Progress: Certified Kubernetes Administrator (CKA) (Expected Jan 2025)
+✅ Completed: Scientific Computing & Machine Learning - World Quant University
+🎓 Degree: Bachelor of Engineering Honours (Australian-assessed equivalent)
+
+
+🌐 Community Involvement
+
+👥 Active member: Adelaide Java Users Group
+🚀 Participating in: DevOps Adelaide meetups
+💬 Contributing to: Adelaide.tech community
+
+
+💡 Fun Facts
+
+🌍 Traveled across Africa deploying fintech solutions in Ghana, Liberia, Zambia, and Lesotho
+📈 Passionate about system scalability and performance optimization
+🎯 Love solving complex backend architecture challenges
+☕ Always up for a coffee chat about tech!
+
+
+<div align="center">
+💼 Open to Backend Engineer, Microservices Architect, or DevOps roles in Adelaide
+Let's build something amazing together!
+Show Image
+</div>
