@@ -111,6 +111,9 @@ I'm always open to interesting conversations and opportunities!
 <a href="mailto:tungatadube@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
+ <a href="mailto:tungatadube@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-D14836?style=for-the-badge&logo=gmail&logoColor=green" alt="Portfolio" />
+</a>   
   </p>
 </div>  
 Show Image
