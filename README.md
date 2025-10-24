@@ -21,8 +21,7 @@ International experience deploying systems across multiple markets
 
 🛠️ Tech Stack
 Languages & Frameworks
-Show Image
-Show Image
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 Show Image
 Show Image
 DevOps & Cloud
