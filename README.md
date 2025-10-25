@@ -101,8 +101,8 @@ Spring Security - Security enhancements
 Code for Australia - Contributing to civic tech projects
 
 
-📫 Get In Touch
-I'm always open to interesting conversations and opportunities! 
+📫 Get In Touch  
+I'm always open to interesting conversations and opportunities!  
 <div align="left">
   <p align="left">
 <a href="https://www.linkedin.com/in/mduduzifrederickdube" target="_blank">
@@ -116,37 +116,37 @@ I'm always open to interesting conversations and opportunities!
 </a>   
   </p>
 </div>  
-Show Image
-📱 Phone: +61 0408 704 216
-📍 Location: Adelaide, South Australia
-💼 Status: Available for immediate start
-🛂 Visa: 482 Skills in Demand - Eligible to work immediately
+<div>
+<p>📱 Phone: +61 0408 704 216</p>
+<p>📍 Location: Adelaide, South Australia</p>
+<p>💼 Status: Available for immediate start </p>  
+<p>🛂 Visa: 482 Skills in Demand - Eligible to work immediately</p>
+</div>
 
 🎓 Certifications & Learning
 
-🎯 In Progress: AWS Solutions Architect Associate (Expected Dec 2024)
-🎯 In Progress: Certified Kubernetes Administrator (CKA) (Expected Jan 2025)
-✅ Completed: Scientific Computing & Machine Learning - World Quant University
-🎓 Degree: Bachelor of Engineering Honours (Australian-assessed equivalent)
+🎯 In Progress: AWS Solutions Architect Associate (Expected Dec 2025)  
+🎯 In Progress: Certified Kubernetes Administrator (CKA) (Expected Jan 2025)  
+✅ Completed: Scientific Computing & Machine Learning - World Quant University  
+🎓 Degree: Bachelor of Engineering Honours (Australian-assessed equivalent)  
 
 
 🌐 Community Involvement
 
-👥 Active member: Adelaide Java Users Group
-🚀 Participating in: DevOps Adelaide meetups
-💬 Contributing to: Adelaide.tech community
+👥 Active member: Adelaide Java Users Group  
+🚀 Participating in: DevOps Adelaide meetups  
+💬 Contributing to: Adelaide.tech community  
 
 
-💡 Fun Facts
+💡 Fun Facts  
 
-🌍 Traveled across Africa deploying fintech solutions in Ghana, Liberia, Zambia, and Lesotho
-📈 Passionate about system scalability and performance optimization
-🎯 Love solving complex backend architecture challenges
-☕ Always up for a coffee chat about tech!
+🌍 Traveled across Africa deploying fintech solutions in Ghana, Liberia, Zambia, and Lesotho  
+📈 Passionate about system scalability and performance optimization  
+🎯 Love solving complex backend architecture challenges  
+☕ Always up for a coffee chat about tech!  
 
 
 <div align="center">
-💼 Open to Backend Engineer, Microservices Architect, or DevOps roles in Adelaide
-Let's build something amazing together!
-Show Image
-</div>
+💼 Open to Backend Engineer, Microservices Architect, or DevOps roles in Adelaide  
+Let's build something amazing together!  
+![Show Image](https://visitor-badge.laobi.icu/badge?page_id=tungatadube.tungatadube)</div>
