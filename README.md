@@ -146,7 +146,11 @@ I'm always open to interesting conversations and opportunities!
 ☕ Always up for a coffee chat about tech!  
 
 
-<div align="center">
+<div align="left">
 💼 Open to Backend Engineer, Microservices Architect, or DevOps roles in Adelaide  
 Let's build something amazing together!  
-![Show Image](https://visitor-badge.laobi.icu/badge?page_id=tungatadube.tungatadube)</div>
+</div>
+<div>
+<p><img src="https://visitor-badge.laobi.icu/badge?page_id=tungatadube.tungatadube" alt="Visitors" /></p>
+</div>
+
