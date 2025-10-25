@@ -12,13 +12,13 @@ Hi there, I'm Mduduzi Dube 👋
 🌏 Connecting with Adelaide's tech community  </div>
 
 
-💼 Professional Background
+<div>💼 Professional Background
 
 6+ years building enterprise fintech systems processing $2B+ annually
 Architected microservices platforms serving 15+ million users
 Expert in Spring Boot, Kubernetes, CI/CD, and cloud infrastructure
 Maintained 99.9% uptime for mission-critical payment systems
-International experience deploying systems across multiple markets
+International experience deploying systems across multiple markets</div>
 
 
 🛠️ Tech Stack
