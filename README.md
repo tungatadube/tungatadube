@@ -4,12 +4,12 @@ Hi there, I'm Mduduzi Dube 👋
 <div>I'm a backend software engineer with 6+ years of experience building enterprise-grade fintech systems. Recently relocated to Adelaide and actively seeking opportunities in backend development, microservices architecture, or DevOps engineering.</div>    
 
 
-🎯 Current Focus
+<div>🎯 Current Focus
 
 🔨 Building production-ready microservices projects with Spring Boot & Kubernetes  
 📚 Pursuing AWS Solutions Architect Associate certification  
 🤝 Contributing to open source projects in the Spring ecosystem  
-🌏 Connecting with Adelaide's tech community  
+🌏 Connecting with Adelaide's tech community  </div>
 
 
 💼 Professional Background
