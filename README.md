@@ -1,6 +1,6 @@
 Hi there, I'm Mduduzi Dube 👋  
-🚀 Backend Software Engineer | Java & Spring Boot Specialist
-📍 Based in Adelaide, South Australia | 🔍 Available for immediate employment  
+🚀 Backend Software Engineer | Java & Spring Boot Specialist  
+📍 Based in Adelaide, South Australia | 🔍 Available for immediate employment    
 I'm a backend software engineer with 6+ years of experience building enterprise-grade fintech systems. Recently relocated to Adelaide and actively seeking opportunities in backend development, microservices architecture, or DevOps engineering.    
 
 
