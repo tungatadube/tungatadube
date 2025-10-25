@@ -6,10 +6,10 @@ I'm a backend software engineer with 6+ years of experience building enterprise-
 
 🎯 Current Focus
 
-🔨 Building production-ready microservices projects with Spring Boot & Kubernetes
-📚 Pursuing AWS Solutions Architect Associate certification
-🤝 Contributing to open source projects in the Spring ecosystem
-🌏 Connecting with Adelaide's tech community
+🔨 Building production-ready microservices projects with Spring Boot & Kubernetes  
+📚 Pursuing AWS Solutions Architect Associate certification  
+🤝 Contributing to open source projects in the Spring ecosystem  
+🌏 Connecting with Adelaide's tech community  
 
 
 💼 Professional Background
